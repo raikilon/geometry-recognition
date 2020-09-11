@@ -1,0 +1,356 @@
+[
+  {
+    "synsetId": "02747177",
+    "name": "trash can",
+    "children": [],
+    "numInstances": 343
+  },
+  {
+    "synsetId": "02773838",
+    "name": "suitcase",
+    "children": [],
+    "numInstances": 83
+  },
+  {
+    "synsetId": "02801938",
+    "name": "handbasket",
+    "children": [],
+    "numInstances": 113
+  },
+  {
+    "synsetId": "02808440",
+    "name": "bathtub",
+    "children": [],
+    "numInstances": 856
+  },
+  {
+    "synsetId": "02818832",
+    "name": "bed",
+    "children": [],
+    "numInstances": 233
+  },
+  {
+    "synsetId": "02828884",
+    "name": "bench",
+    "children": [],
+    "numInstances": 1813
+  },
+  {
+    "synsetId": "02871439",
+    "name": "bookshelf",
+    "children": [],
+    "numInstances": 452
+  },
+  {
+    "synsetId": "02876657",
+    "name": "bottle",
+    "children": [],
+    "numInstances": 498
+  },
+  {
+    "synsetId": "02880940",
+    "name": "bowl",
+    "children": [],
+    "numInstances": 186
+  },
+  {
+    "synsetId": "02933112",
+    "name": "cabinet",
+    "children": [
+      {
+        "synsetId": "03237340",
+        "name": "dresser",
+        "children": [],
+        "numInstances": 500
+      },
+      {
+        "synsetId": "20000010",
+        "name": "desk cabinet",
+        "children": [],
+        "numInstances": 358
+      },
+      {
+        "synsetId": "20000011",
+        "name": "garage cabinet",
+        "children": [],
+        "numInstances": 309
+      },
+      {
+        "synsetId": "20000012",
+        "name": "tall cabinet",
+        "children": [],
+        "numInstances": 116
+      },
+      {
+        "synsetId": "20000013",
+        "name": "two-door cabinet",
+        "children": [],
+        "numInstances": 79
+      }
+    ],
+    "numInstances": 1571
+  },
+  {
+    "synsetId": "02946921",
+    "name": "can",
+    "children": [],
+    "numInstances": 108
+  },
+  {
+    "synsetId": "03207941",
+    "name": "dishwasher",
+    "children": [],
+    "numInstances": 93
+  },
+  {
+    "synsetId": "03211117",
+    "name": "display",
+    "children": [],
+    "numInstances": 1093
+  },
+  {
+    "synsetId": "03325088",
+    "name": "faucet",
+    "children": [],
+    "numInstances": 744
+  },
+  {
+    "synsetId": "03593526",
+    "name": "vase",
+    "children": [],
+    "numInstances": 596
+  },
+  {
+    "synsetId": "03636649",
+    "name": "lamp",
+    "children": [],
+    "numInstances": 2318
+  },
+  {
+    "synsetId": "03642806",
+    "name": "laptop",
+    "children": [],
+    "numInstances": 460
+  },
+  {
+    "synsetId": "03691459",
+    "name": "loudspeaker",
+    "children": [],
+    "numInstances": 1597
+  },
+  {
+    "synsetId": "03710193",
+    "name": "mailbox",
+    "children": [],
+    "numInstances": 94
+  },
+  {
+    "synsetId": "03761084",
+    "name": "microwave",
+    "children": [],
+    "numInstances": 152
+  },
+  {
+    "synsetId": "03797390",
+    "name": "mug",
+    "children": [],
+    "numInstances": 214
+  },
+  {
+    "synsetId": "03928116",
+    "name": "piano",
+    "children": [],
+    "numInstances": 239
+  },
+  {
+    "synsetId": "03938244",
+    "name": "pillow",
+    "children": [],
+    "numInstances": 96
+  },
+  {
+    "synsetId": "03991062",
+    "name": "flowerpot",
+    "children": [],
+    "numInstances": 602
+  },
+  {
+    "synsetId": "04004475",
+    "name": "printer",
+    "children": [],
+    "numInstances": 166
+  },
+  {
+    "synsetId": "04074963",
+    "name": "remote control",
+    "children": [],
+    "numInstances": 66
+  },
+  {
+    "synsetId": "04256520",
+    "name": "sofa",
+    "children": [],
+    "numInstances": 3173
+  },
+  {
+    "synsetId": "04330267",
+    "name": "stove",
+    "children": [],
+    "numInstances": 218
+  },
+  {
+    "synsetId": "04379243",
+    "name": "table",
+    "children": [
+      {
+        "synsetId": "02894337",
+        "name": "breakfast table",
+        "children": [],
+        "numInstances": 1
+      },
+      {
+        "synsetId": "03063968",
+        "name": "coffee table",
+        "children": [],
+        "numInstances": 1068
+      },
+      {
+        "synsetId": "03090000",
+        "name": "conference table",
+        "children": [],
+        "numInstances": 17
+      },
+      {
+        "synsetId": "03092883",
+        "name": "console table",
+        "children": [],
+        "numInstances": 336
+      },
+      {
+        "synsetId": "03179701",
+        "name": "desk",
+        "children": [],
+        "numInstances": 1633
+      },
+      {
+        "synsetId": "03238586",
+        "name": "dressing table",
+        "children": [],
+        "numInstances": 6
+      },
+      {
+        "synsetId": "03246933",
+        "name": "drop-leaf table",
+        "children": [],
+        "numInstances": 21
+      },
+      {
+        "synsetId": "03620967",
+        "name": "kitchen table",
+        "children": [],
+        "numInstances": 73
+      },
+      {
+        "synsetId": "03850492",
+        "name": "operating table",
+        "children": [],
+        "numInstances": 3
+      },
+      {
+        "synsetId": "03904060",
+        "name": "pedestal table",
+        "children": [
+          "04436012"
+        ],
+        "numInstances": 41
+      },
+      {
+        "synsetId": "04436012",
+        "name": "tilt-top table",
+        "children": [],
+        "numInstances": 2
+      },
+      {
+        "synsetId": "04301000",
+        "name": "stand",
+        "children": [
+          "03653583"
+        ],
+        "numInstances": 10
+      },
+      {
+        "synsetId": "03653583",
+        "name": "lectern",
+        "children": [],
+        "numInstances": 8
+      },
+      {
+        "synsetId": "04381587",
+        "name": "table-tennis",
+        "children": [],
+        "numInstances": 61
+      },
+      {
+        "synsetId": "04398951",
+        "name": "tea table",
+        "children": [],
+        "numInstances": 26
+      },
+      {
+        "synsetId": "04603729",
+        "name": "worktable",
+        "children": [],
+        "numInstances": 370
+      },
+      {
+        "synsetId": "03630262",
+        "name": "lab bench",
+        "children": [],
+        "numInstances": 9
+      },
+      {
+        "synsetId": "20000036",
+        "name": "cabinet table",
+        "children": [],
+        "numInstances": 28
+      },
+      {
+        "synsetId": "20000037",
+        "name": "rectangular table",
+        "children": [],
+        "numInstances": 471
+      },
+      {
+        "synsetId": "20000038",
+        "name": "round table",
+        "children": [],
+        "numInstances": 52
+      },
+      {
+        "synsetId": "20000039",
+        "name": "short table",
+        "children": [],
+        "numInstances": 157
+      },
+      {
+        "synsetId": "20000040",
+        "name": "side table",
+        "children": [],
+        "numInstances": 321
+      },
+      {
+        "synsetId": "20000041",
+        "name": "workshop table",
+        "children": [],
+        "numInstances": 402
+      }
+    ],
+    "numInstances": 8436
+  },
+  {
+    "synsetId": "04554684",
+    "name": "washing machine",
+    "children": [],
+    "numInstances": 169
+  }
+]
