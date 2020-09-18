@@ -1,0 +1,13 @@
+torch~=1.4.0
+torchvision~=0.5.0
+numpy~=1.18.2
+wandb~=0.8.32
+tensorboardX~=2.0
+matplotlib~=3.2.1
+pytorch3d~=0.2.0
+mlxtend~=0.17.2
+sklearn~=0.0
+scikit-learn~=0.22.2.post1
+Pillow~=7.0.0
+pyvista~=0.25.3
+pandas~=1.0.3

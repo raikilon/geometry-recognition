@@ -12,7 +12,16 @@ The main objective of this Master’s Thesis is to research and find the most su
 
 The current HEGIAS’ physics engine uses cuboids to represents the boundaries of models and to compute collisions. To be able to import the CAD models directly into the system and use them, the physics engine needs their simplified representation. For this reason, the proof of concept should contain a post-processing step which generates a tight and precise cuboid or a hierarchy of them for each input model.
 
+## Installation
+
+This project requires [Python](https://www.python.org/) 3.7.4+.
+
+To install all the dependencies run the following command
+
+```
+pip install -r requirements.txt
+```
 
 ## Credits
 
-The project was realized by **Noli Manzoni** (nolimanzoni94@gmail.com) for the Master's Thesis at the [Università della Svizzera italiana](https://www.usi.ch).
+The project was realized by **Noli Manzoni** (nolimanzoni94@gmail.com) for the Master' Thesis at the [Università della Svizzera italiana](https://www.usi.ch).

@@ -25,7 +25,7 @@ with open('taxonomy.json') as json_file:
 names = {}
 names = dict.fromkeys(dict_files, 0)
 print(names)
-for subdir, dirs, files in os.walk("/Users/raikilon/Documents/Thesis/datasets/ShapeNetCore.v2"):
+for subdir, dirs, files in os.walk("datasets/ShapeNetCore.v2"):
     for file in files:
         if file != "model_normalized.obj":
             continue
@@ -40,10 +40,10 @@ for subdir, dirs, files in os.walk("/Users/raikilon/Documents/Thesis/datasets/Sh
                     break
         if check:
             if not os.path.exists(
-                    os.path.join("/Users/raikilon/Documents/Thesis/datasets/shapenetsubset", name, "train")):
-                os.makedirs(os.path.join("/Users/raikilon/Documents/Thesis/datasets/shapenetsubset", name, "train"))
+                    os.path.join("datasets/shapenetsubset", name, "train")):
+                os.makedirs(os.path.join("datasets/shapenetsubset", name, "train"))
             shutil.copyfile(os.path.join(subdir, file),
-                            os.path.join("/Users/raikilon/Documents/Thesis/datasets/shapenetsubset", name, "train",
+                            os.path.join("datasets/shapenetsubset", name, "train",
                                          "{}_{}.obj".format(name, str(names[name]))))
             names[name] += 1
 
