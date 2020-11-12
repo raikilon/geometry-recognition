@@ -21,6 +21,9 @@ To install all the dependencies run the following command
 ```
 pip install -r requirements.txt
 ```
+## Publication
+
+The thesis was published on the website of the University Library of Lugano as it was graded 10/10. You can read it [here](https://thesis.bul.sbu.usi.ch/theses/1775-1920Manzoni/pdf?1602571679).
 
 ## Credits
 
